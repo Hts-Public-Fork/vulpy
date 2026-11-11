@@ -1,3 +1,6 @@
+# HTSOne identity test (2026-11-11): three comment lines added above
+# to move the existing test value down by three lines.
+# Safe to remove.
 """Merge-lifecycle probe: 4 deliberate findings that must survive the merge to master."""
 import hashlib, sqlite3, subprocess
 
